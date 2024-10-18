@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="250" src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif"  />
+</div>
+
+###
 # 💫 About Me:
 💻Recently graduated with a BS in Software Engineering.<br>😁Trying to become the better version of myself, that includes being an excellent software engineer.<br>📚Working on my portfolio.<br>✨Eager to work on challenging and innovative projects.
 
