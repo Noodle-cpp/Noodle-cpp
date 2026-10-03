@@ -1,20 +1,33 @@
-<div align="center">
-  <img height="250" src="https://64.media.tumblr.com/82671dd3bfe399d0513abdeb8deb8785/tumblr_psaodvOtRW1urlwx8_500.gif"  />
-</div>
-
-###
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-###
-
-<h1 align="center">📊 GitHub Stats:</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Noodle-cpp&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=20" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Noodle-cpp&theme=dark" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noodle-cpp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=Noodle-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-###
+---
+
+### 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,kotlin,dotnet,docker,mysql,postgres,mongodb,sqlite,git,github,gitlab,figma,visualstudio,vscode,androidstudio,ubuntu,windows&perline=10" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Noodle-cpp&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noodle-cpp&theme=dark&hide_border=true&bg_color=0D1117&layout=compact&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Noodle-cpp&theme=dark&hide_border=true&bg_color=0D1117&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake:
 
 <p align="center">
   <picture>
@@ -22,12 +35,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noodle-cpp/Noodle-cpp/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Noodle-cpp/Noodle-cpp/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-###
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Noodle-cpp&icon=0&color=0" />
-  </a>
 </p>
