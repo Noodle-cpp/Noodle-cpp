@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Noodle-cpp&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=20" />
+
 <div align="center">
   <img height="250" src="https://64.media.tumblr.com/82671dd3bfe399d0513abdeb8deb8785/tumblr_psaodvOtRW1urlwx8_500.gif" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Noodle-cpp&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%23%20%2F%20.NET%20Developer&descAlignY=58&descSize=20" />
 
 ---
 
